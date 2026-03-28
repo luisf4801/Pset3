@@ -1,0 +1,40 @@
+asttokens @ file:///C:/Users/task_177313470048861/croot/asttokens_1773135664256/work
+cloudpickle @ file:///C:/miniconda3/conda-bld/cloudpickle_1764930545936/work
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm @ file:///C:/miniconda3/conda-bld/comm_1763119240032/work
+contourpy==1.3.3
+cycler==0.12.1
+debugpy @ file:///C:/miniconda3/conda-bld/debugpy_1762421657701/work
+decorator @ file:///C:/miniconda3/conda-bld/decorator_1757341249812/work
+executing @ file:///C:/miniconda3/conda-bld/executing_1757061250618/work
+fonttools==4.62.1
+ipykernel @ file:///C:/miniconda3/conda-bld/ipykernel_1762946093310/work
+ipython @ file:///C:/b/abs_8eyhzleyrk/croot/ipython_1734548134403/work
+jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
+jupyter_client @ file:///C:/Users/task_176839910354009/croot/jupyter_client_1768399225952/work
+jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588344213/work
+kiwisolver==1.5.0
+matplotlib==3.10.8
+matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1762779272071/work
+nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
+numpy==2.4.3
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049096285/work
+parso @ file:///C:/miniconda3/conda-bld/parso_1762781926029/work
+pillow==12.1.1
+platformdirs @ file:///C:/Users/task_177365235863468/croot/platformdirs_1773652992932/work
+prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745034319/work
+psutil @ file:///C:/miniconda3/conda-bld/psutil_1761896536656/work
+pure_eval @ file:///C:/miniconda3/conda-bld/pure_eval_1757067065603/work
+Pygments @ file:///C:/miniconda3/conda-bld/pygments_1762431425708/work
+pyparsing==3.3.2
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pywin32 @ file:///C:/b/abs_6c9w_vp9zi/croot/pywin32_1754670534373/work
+pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375608224/work
+scipy==1.17.1
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+spyder-kernels @ file:///C:/b/abs_0a8wbrmvxw/croot/spyder-kernels_1748642523170/work
+stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067061065/work
+tornado @ file:///C:/Users/task_177430354887534/croot/tornado_1774303656328/work
+traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+wcwidth @ file:///C:/Users/task_176777899121830/croot/wcwidth_1767779217471/work

@@ -9,6 +9,7 @@ Implementação das questões 1–5 do Problem Set 3, cobrindo otimização, int
 ```
 pset3/
 ├── pset3.py            ← código principal (todas as questões)
+├── pset3_comp.PDF         ← PDF com resultados
 ├── requirements.txt    ← dependências do projeto
 ├── README.md           ← este arquivo
 └── output/             ← gerada automaticamente ao rodar o script
